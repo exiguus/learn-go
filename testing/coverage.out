@@ -1,0 +1,19 @@
+mode: set
+github.com/exigus/gotesting/network/network.go:8.50,11.16 2 1
+github.com/exigus/gotesting/network/network.go:11.16,13.3 1 0
+github.com/exigus/gotesting/network/network.go:15.2,15.29 1 1
+github.com/exigus/gotesting/network/network.go:18.57,21.16 2 1
+github.com/exigus/gotesting/network/network.go:21.16,23.3 1 0
+github.com/exigus/gotesting/network/network.go:25.2,25.29 1 1
+github.com/exigus/gotesting/calculator/calculator.go:5.31,7.2 1 1
+github.com/exigus/gotesting/calculator/calculator.go:9.48,10.16 1 1
+github.com/exigus/gotesting/calculator/calculator.go:10.16,12.3 1 1
+github.com/exigus/gotesting/calculator/calculator.go:14.2,14.40 1 1
+github.com/exigus/gotesting/calculator/primes.go:5.26,6.12 1 1
+github.com/exigus/gotesting/calculator/primes.go:6.12,8.3 1 1
+github.com/exigus/gotesting/calculator/primes.go:45.2,45.12 1 1
+github.com/exigus/gotesting/calculator/primes.go:45.12,47.3 1 1
+github.com/exigus/gotesting/calculator/primes.go:49.2,49.62 1 1
+github.com/exigus/gotesting/calculator/primes.go:49.62,50.15 1 1
+github.com/exigus/gotesting/calculator/primes.go:50.15,52.4 1 1
+github.com/exigus/gotesting/calculator/primes.go:55.2,55.13 1 1
