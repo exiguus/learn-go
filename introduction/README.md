@@ -1,9 +1,5 @@
 # Go introduction
 
-<https://go.dev/doc/>
-
-Introduction <https://www.youtube.com/watch?v=eqSjKOPt7dg> (in german)
-
 ## Install
 
 <https://go.dev/doc/install>
@@ -35,3 +31,10 @@ GOOS=windows GOARCH=amd64 go build -o build/helloworld.exe .
 ```bash
 GOOS=js GOARCH=wasm go build -o build/helloworld.wasm .
 ```
+
+## Resources
+
+- <https://go.dev/doc/>
+- <https://go.dev/doc/tutorial/getting-started>
+- <https://www.youtube.com/watch?v=eqSjKOPt7dg> (in german)
+- <https://www.golang-book.com/books/intro>

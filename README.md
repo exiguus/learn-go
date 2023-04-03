@@ -4,8 +4,12 @@
 
 ## Packages
 
-- [Introduction](introduction/README.md)
-- [Testing](testing/README.md)
+- [x] [Introduction](introduction/README.md)
+- [x] [Testing](testing/README.md)
+- [ ] [Concurrency](concurrency/README.md)
+- [ ] [Functional Programming](functional/README.md)
+- [ ] [WASM](wasm/README.md)
+- [ ] [Microservices](microservices/README.md)
 
 ### Create Package
 
@@ -21,3 +25,10 @@ go work init
 # set workspace
 go use ./testing ./introduction
 ```
+
+## Resources
+
+- <https://golang.org/doc/>
+- <https://quii.gitbook.io/learn-go-with-tests/>
+- <https://go.dev/doc/tutorial/create-module>
+- <https://go.dev/doc/tutorial/workspaces>
